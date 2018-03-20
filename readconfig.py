@@ -12,3 +12,10 @@ print(username1);
 print(password1);
 print(username2);
 print(password2);
+
+''' Output below
+henry
+henrypw
+root
+rootpw
+'''
