@@ -1,0 +1,7 @@
+[reddit]
+username = henry
+password = henrypw
+
+[local database]
+username = root
+password = rootpw
